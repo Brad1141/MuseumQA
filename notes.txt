@@ -1,3 +1,4 @@
+Oct 6
 problem
 - distilbert extractive q&a model for muesuem artifacts
 
@@ -15,3 +16,5 @@ tiny roberta test run
 - 3: Augustus III
 - 2: the urban scene
 - 1: eighteenth century
+
+good model: mrm8488/longformer-base-4096-finetuned-squadv2
