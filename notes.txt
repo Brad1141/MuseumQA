@@ -1,0 +1,17 @@
+problem
+- distilbert extractive q&a model for muesuem artifacts
+
+questions
+- when was this artwork created
+- what is this artwork about
+- who made this artwork
+- what is the name of the artwork
+- what is the artwork medium
+
+muesuem for training
+- national gallery of art: had paragraphs of info about artwork
+
+tiny roberta test run
+- 3: Augustus III
+- 2: the urban scene
+- 1: eighteenth century
