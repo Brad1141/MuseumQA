@@ -21,3 +21,7 @@ Ideas
     - good model: mrm8488/longformer-base-4096-finetuned-squadv2
     - Pdf: could be webscraped into a dataset with info on each artwork
     - get another dataset besides squad, only use questions with who, what, when created
+
+datasets
+    - mctaco
+    - triviaQA (priorty)
