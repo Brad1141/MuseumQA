@@ -25,3 +25,6 @@ Ideas
 datasets
     - mctaco
     - triviaQA (priorty)
+    - super_glue multirc (current dataset in use)
+
+super glue multirc
