@@ -2,6 +2,13 @@ Oct 6
 problem
 - distilbert extractive q&a model for muesuem artifacts
 
+Nov 5
+    - turn pdf into database
+    - could try splitting text into multiple parts
+    - document retrieval
+        - find tf-idf value
+        - use dot product to compare simlarity
+
 questions
 - when was this artwork created
 - what is this artwork about
@@ -28,3 +35,13 @@ datasets
     - super_glue multirc (current dataset in use)
 
 super glue multirc
+
+versions
+    - v1
+        - 50/50 data split
+        - half specific questions
+        - half general questions
+        - base: longformer model
+        - {'exact_match': 12.251655629139073, 'f1': 13.109500959726295}
+
+
