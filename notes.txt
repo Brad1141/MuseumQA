@@ -43,5 +43,13 @@ versions
         - half general questions
         - base: longformer model
         - {'exact_match': 12.251655629139073, 'f1': 13.109500959726295}
+    
+    - v2 (Nov 20 submission)
+        - include more data from other traning sets
+        - focus more on the regex expressions
+            - when, created, art
+            - add composition, line/s, painting/s
+        - build a base model training only on squad
+        - use pdf to demonstrate differences in models
 
 
