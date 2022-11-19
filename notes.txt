@@ -49,7 +49,15 @@ versions
         - focus more on the regex expressions
             - when, created, art
             - add composition, line/s, painting/s
+            - add large context
         - build a base model training only on squad
         - use pdf to demonstrate differences in models
+
+final essay new stuff
+    - 1/3 special 2/3 normal split
+    - added three new categories
+    - base: longformer model
+    - three different datasets squad1, squad_averserial, and super_glue multirc
+    - used deepset/tinyroberta-squad2 for data creation
 
 
